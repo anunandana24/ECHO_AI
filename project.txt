@@ -1,0 +1,7 @@
+Component	                   Purpose
+--------------------------------------------------------------------------------
+kokoro_tts.ipynb	Runs your Gradio interface and coordinates the assistant
+Ollama + Qwen	    Generates AI answers
+Kokoro TTS	        Converts answers into speech
+Faster-Whisper	    Transcribes voice input
+Gradio	            Provides the browser-based interface
